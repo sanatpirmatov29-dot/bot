@@ -1,0 +1,18 @@
+# Muhit va maxfiy ma'lumotlar
+.env
+cookies.txt
+
+# Python va virtual muhit
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# Yuklab olingan fayllar
+downloads/
+*.mp4
+*.m4a
+*.part
+*.ytdl
